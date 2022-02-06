@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Bootstrap-5A3C84?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/CPP-7AB5CF?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/Git-3E2C00?style=for-the-badge&logo=git&logoColor=F1502F)
 ![](https://img.shields.io/badge/GitHub-fafafa?style=for-the-badge&logo=github&logoColor=4078c0)
