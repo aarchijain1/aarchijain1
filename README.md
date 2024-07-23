@@ -3,7 +3,7 @@
 ---
 
 ### 🚀 About Me
-- I'm a 3rd-year B. Tech. (IT) student at University Institute of Technology RGPV.
+- I'm a final year B. Tech. (IT) student at University Institute of Technology RGPV.
 - Passionate about Web Development and looking to collaborate with other developers. 
 - Learning more tools and technologies which are mentioned below to build big projects.
 
